@@ -222,3 +222,6 @@ __marimo__/
 data/
 venv/
 .env
+
+# MLflow runs folder
+mlruns/
