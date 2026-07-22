@@ -225,3 +225,7 @@ venv/
 
 # MLflow runs folder
 mlruns/
+
+# Prefect internal storage
+.prefect/
+*.db
